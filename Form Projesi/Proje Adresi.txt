@@ -1,0 +1,1 @@
+Data Source=DESKTOP-TO6PJTR;Initial Catalog=FilmveDizi_Arsivi;Integrated Security=True

@@ -1,0 +1,11 @@
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\bin\Debug\_102.ORN.Film_Arsivi.exe.config
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\bin\Debug\_102.ORN.Film_Arsivi.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\bin\Debug\_102.ORN.Film_Arsivi.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.Form1.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.Properties.Resources.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\102. ORN. Film Arsivi.csproj.GenerateResource.Cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.AdminSayfasi.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\_102.ORN.Film_Arsivi.KullaniciPaneli.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\102. ORN. Film Arsivi\102. ORN. Film Arsivi\obj\Debug\102. ORN. Film Arsivi.csprojResolveAssemblyReference.cache
